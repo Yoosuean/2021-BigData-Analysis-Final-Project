@@ -3,9 +3,10 @@
 <br>
 <br>
 <br>
-
-### 📍 파리바게트는 정말 횡단보도 옆에 있을까?
-### 📍 스타벅스 근처에는 올리브영과 이디야가 있을까?
+### [📁 code](https://github.com/Yoosuean/2021-BigData-Analysis-Final-Project/blob/main/BigData-Analysis-Final-Project-Yoosuean.ipynb) 
+### [📁 ppt](https://github.com/Yoosuean/2021-BigData-Analysis-Final-Project/blob/main/BigData-Analysis-Final-Project-Yoosuean.pptx)
+### [가설 1] 파리바게트는 정말 횡단보도 옆에 있을까?
+### [가설 2] 스타벅스 근처에는 올리브영과 이디야가 있을까?
 
 ![슬라이드1](https://user-images.githubusercontent.com/74358436/224494888-480694ee-6cd3-47ba-aceb-7414a7a8fd86.png)
 ![슬라이드2](https://user-images.githubusercontent.com/74358436/224494913-e1395d38-3db0-459b-8026-7f7c549242e5.png)
